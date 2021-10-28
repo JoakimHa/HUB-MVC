@@ -58,8 +58,7 @@ Navbar = `<nav class="navbar">
             <span class="link-text">Oppgaver</span>
           </a>
       </li>
-      <li class="nav-item">
-        <a href="file:///C:/Users/joaki/OneDrive/Dokumenter/GitHub/Hub/TeamOppg.html" class="nav-link">
+      <li class="nav-item" onclick="Oppgaver()">
             <svg
             aria-hidden="true"
             focusable="false"
