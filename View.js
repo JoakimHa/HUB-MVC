@@ -11,5 +11,5 @@ function View() {
     <p class="main-text">PLACEHOLDER TEXT</p> 
     <p class="main-text">PLACEHOLDER TEXT</p> 
     <p class="main-text">PLACEHOLDER TEXT</p> 
-    <p class="main-text">PLACEHOLDER TEXT</p> `
+    <p class="main-text">PLACEHOLDER TEXT</p> `;
 }
